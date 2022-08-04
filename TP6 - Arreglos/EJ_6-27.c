@@ -1,0 +1,10 @@
+#include "../Biblioteca/inc/my_math.h"
+
+int main (void) {
+    // maximo numero 511
+    char number[] = "510";
+    printf("Numero decimal: %s\n", number);
+    dec_str_to_bin_str(number);
+    printf("Numero binario: %s\n", number);
+    return 0;
+}

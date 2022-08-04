@@ -1,0 +1,6 @@
+| Legajo	| Alumno			| Calificacion		|
+| 40404040	| Alvarez Alberto		| 8		|
+| 40404041	| Bauer Belen		| 6		|
+| 40404042	| Chavez Carlos		| 7		|
+| 40404043	| Danvers Daniela		| 3		|
+| 40404044	| Estevanez Enrique		| 9		|
